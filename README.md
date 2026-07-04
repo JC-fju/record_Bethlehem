@@ -1,4 +1,4 @@
-# project_Bethlehem
+# Record_Bethlehem
 
 先學會C再來搞這個
 總之玩法會想要偏向中出式(mai那種)
